@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of his excellency, Henry Lord Viscount Sydney, Lord Lieutenant of Ireland, to both Houses of Parliament assembled at Dublin. October 5. 1692.</title>
+            <author>Romney, Henry Sidney, Earl of, 1641-1704.\</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05034</idno>
+            <idno type="STC">Wing R1910</idno>
+            <idno type="STC">ESTC R182794</idno>
+            <idno type="EEBO-CITATION">52612221</idno>
+            <idno type="OCLC">ocm 52612221</idno>
+            <idno type="VID">179527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179527)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2792:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of his excellency, Henry Lord Viscount Sydney, Lord Lieutenant of Ireland, to both Houses of Parliament assembled at Dublin. October 5. 1692.</title>
+                  <author>Romney, Henry Sidney, Earl of, 1641-1704.\</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, printer to their most Excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:179527:1"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="1" facs="tcp:179527:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <head>THE SPEECH Of His Excellency <hi>Henry</hi> Lord Viſcount SYDNEY, Lord Lieutenant of IRELAND, To Both Houſes of Parliament Aſſembled at D<g ref="char:V">Ʋ</g>BLIN. <hi>October</hi> 5. 1692.</head>
+            <opener>Publiſhed by Authority.</opener>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>I Received Their Majeſties Commands, immediatly upon my Arrival, to call this Parliament, as the greateſt Demonſtration Their Majeſties could give of Their Affection to you, who, after having ſuffered ſo many great Op<g ref="char:EOLhyphen"/>preſſions, during the late Revolution, almoſt to an utter Deſolation of the Country, can no way be ſo well reſtored to any degree of Settlement, as by a Par<g ref="char:EOLhyphen"/>liament thus legally Conſtituted and Aſſembled, which I muſt obſerve is a Bleſ<g ref="char:EOLhyphen"/>ſing that for many Years you have been depriv'd of, whereby the Engliſh Intereſt has been expoſed to apparent Danger of loſing, not only their Religion, but all that Property which with ſo great Expence of Blood and Treaſure they had pur<g ref="char:EOLhyphen"/>chaſed.</p>
+            <p>This Priviledge of Meeting in Parliament, being thus reſtored by Their Maje<g ref="char:EOLhyphen"/>ſties great Goodneſs, it cannot be doubted but you will make uſe of it to paſs ſuch Laws, as now are, or hereafter ſhall be, tranſmitted to you, as may tend to the firm Settlement of this Country upon a Proteſtant Intereſt.</p>
+            <p>The King is ſo much the more intent upon this great work, having been here Himſelf a Witneſs, with great Compaſſion, of the Miſeries you were all involv'd in, when another Party prevailed, and you may therefore eaſily imagine, it will be a more than ordinary Satisfaction to His Majeſty to ſee this Kingdom once a<g ref="char:EOLhyphen"/>gain eſtabliſhed in Peace and Proſperity, becauſe, by his Perſonal Valour and Conduct, He had ſo Great and Glorious a Part in Relieving you from the Cala<g ref="char:EOLhyphen"/>mities under which you then laboured: And Their Majeſties being in their own Royal Judgments, ſatisfied, that a Countrey ſo fertile by Nature, and ſo advan<g ref="char:EOLhyphen"/>tageouſly ſcituated for Trade and Navigation, can want nothing but the Bleſſing of a Peace, and the help of ſome good Laws, to make it as Rich and Flouriſhing
+<pb n="2" facs="tcp:179527:2"/>
+               <!-- PDF PAGE 22 -->as moſt of it's Neighbours: They hope for the firſt from the Hand of GOD, the Author and Giver of all Bleſſings, the other they expect from the wiſe, ſober, and calm Determinations of your own Counſels, which being what depends ſo much on your ſelves, Their Majeſties cannot think, that either They, or you, will be diſappointed in it, eſpecially ſince I am ordered to aſſure you, there ſhall be no<g ref="char:EOLhyphen"/>thing wa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing upon<g ref="char:punc">▪</g> There parts, that m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y contribute to your Perfect and Laſt<g ref="char:EOLhyphen"/>ing Happ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs; for the mo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> effectual Accompliſhment whereof, I am particularly commanded to put you in mind of the Duty we all owe t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> GOD Almighty, whoſe conſtant and religious Worſhip, Their Majeſties recommend to be daily carried on, both by your Care and Example, with all Piety and Devotion in all Decen<g ref="char:EOLhyphen"/>cy and Order.</p>
+            <p>His Majeſty has tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> entire Confidence in your Loyalty and Dutiful Affection, and of the grateful Sence you have of what He has done for you, that he cannot doubt of your Aſſiſtance in what ſhall be neceſſary for His Service, and your own Security, and it's upon that Aſſurance, that He has commanded me to ac<g ref="char:EOLhyphen"/>quainty you that the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſent eſtabliſhed Re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enue of this Kingdom is not ſufficient to de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Expe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Army as muſt be kept u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Safety and the o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſary Charges of the Government. It is very gre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> troubl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to His Majeſty, that the Neceſſity of His Affairs compels him to recommend this to your Conſideration, and to ask for a Supply, at a Time when the Kingdom is in ſo low a Condition, and hath ſuffered ſo much in the late War, yet the Sum will be ſo moderate, and the Methods of raiſing it ſo eaſie, that His Majeſty can<g ref="char:EOLhyphen"/>not doubt of your ready Complyance.</p>
+            <div type="part">
+               <head>My Lords and Gentlemen.</head>
+               <p>I Shall trouble you but little at this time concerning my ſelf, whom Their Ma<g ref="char:EOLhyphen"/>jeſties have thought fit to conſtitute Their Lieutenant here, hoping it may be better to be known to you by an Equal and Impartial Adminiſtration of the Government, than by any Expreſſions from the Throne, which may ſeem to have too much of Affectation in them; yet this I will venture to tell you, Th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I will uſe all the Diligence and Application I can to diſcharge this great Tru<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Their Majeſties have been pleaſed to repoſe in me, and ſhall think my ſelf very happy if by any Pains or Care of mine I may be inſtrumental to the reſtoring you to that Peace and Unity, to that Plenty and Wealth, in which I my ſelf have formerly ſeen you ſo well eſtabliſhed. And as I doubt not of your carrying on Their Majeſties Service with that Temper &amp; Moderation as is abſolutely neceſ<g ref="char:EOLhyphen"/>ſary to a laſting Settlement, ſo I do aſſure you, that your Readineſs in Complying with what their Majeſties deſire ſhall loſe no part of its Duty, or any good Qua<g ref="char:EOLhyphen"/>lity that may make it the moſt acceptable to Their Majeſties, in the Repreſen<g ref="char:EOLhyphen"/>tation that I ſhall faithfully and conſtantly make of it.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, 1692.</p>
+            <pb n="2" facs="tcp:179527:3"/>
+            <!-- PDF PAGE 23 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
